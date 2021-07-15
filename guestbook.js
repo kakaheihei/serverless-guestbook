@@ -1,7 +1,7 @@
 /**
  * Web application
  */
-const apiUrl = 'https://portal.eu-gb.apigw.cloud.ibm.com/portal?artifactId=e6507cc9-483a-494d-9bf3-48ade64e422f';
+const apiUrl = 'https://62e7df6e.eu-gb.apigw.appdomain.cloud/guestbook';
 const guestbook = {
   // retrieve the existing guestbook entries
   get() {
